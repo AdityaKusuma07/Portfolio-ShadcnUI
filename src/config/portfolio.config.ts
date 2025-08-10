@@ -1,12 +1,12 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Md Taqui Imam",
+  name: "Aditya Kusuma",
   title: "Software Engineer",
   description: "I am a Passionate Software Developer",
   location: "Ramgarh cantt, Jharkhand, India",
 
   // Contact Information
-  email: "taquiimam@example.com", // Replace with actual email if available
+  email: "kusumaaditya61@gmail.com", // Replace with actual email if available
 
   // Social Media Links
   socialLinks: {
