@@ -14,7 +14,7 @@ export const portfolioConfig = {
     twitter: "https://twitter.com/Taquiimam14",
     linkedin: "https://www.linkedin.com/in/taqui-imam",
     external: "https://tinyurl.com/MdTaquiImam",
-    github: "https://github.com/taqui-786", // Assuming this is the GitHub link
+    github: "https://github.com/AdityaKusuma07", // Assuming this is the GitHub link
   },
 
   // SEO Information
